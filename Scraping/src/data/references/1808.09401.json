@@ -1,0 +1,616 @@
+{
+  "paperId": "bbad0b301561c9b44a43f2880b29f143dc7297ba",
+  "title": "Temporal Information Extraction by Predicting Relative Time-lines",
+  "year": 2018,
+  "citationCount": 41,
+  "openAccessPdf": {
+    "url": "https://www.aclweb.org/anthology/D18-1155.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1808.09401, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "authors": [
+    {
+      "authorId": "50596110",
+      "name": "A. Leeuwenberg"
+    },
+    {
+      "authorId": "145446752",
+      "name": "Marie-Francine Moens"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "bff8ae9e28323d217b9ad5a7321e58f79607f557",
+      "title": "A Multi-Axis Annotation Scheme for Event Temporal Relations",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "3333257",
+          "name": "Qiang Ning"
+        },
+        {
+          "authorId": "2119796958",
+          "name": "Hao Wu"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "a6436d09a637c44552673b9b2d51c5434f6650ca",
+      "title": "Event Time Extraction with a Decision Tree of Neural Classifiers",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "2959414",
+          "name": "Nils Reimers"
+        },
+        {
+          "authorId": "3103769",
+          "name": "Nazanin Dehghani"
+        },
+        {
+          "authorId": "1730400",
+          "name": "Iryna Gurevych"
+        }
+      ]
+    },
+    {
+      "paperId": "a9e0fa94e59261f5905951e93d515af64c3fc7cb",
+      "title": "A Structured Learning Approach to Temporal Relation Extraction",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "3333257",
+          "name": "Qiang Ning"
+        },
+        {
+          "authorId": "117662877",
+          "name": "Zhili Feng"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "1be5fb27ed73b22ead6a5224120eff0d3520aa51",
+      "title": "SemEval-2017 Task 12: Clinical TempEval",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "2105138",
+          "name": "Steven Bethard"
+        },
+        {
+          "authorId": "1894531",
+          "name": "G. Savova"
+        },
+        {
+          "authorId": "145755155",
+          "name": "Martha Palmer"
+        },
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        }
+      ]
+    },
+    {
+      "paperId": "2a8e11f6b8d90de4a06a7bf29065184e2627acff",
+      "title": "Classifying Temporal Relations by Bidirectional LSTM over Dependency Paths",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "49412583",
+          "name": "Fei Cheng"
+        },
+        {
+          "authorId": "1768065",
+          "name": "Yusuke Miyao"
+        }
+      ]
+    },
+    {
+      "paperId": "b67a64da079ce493c8d24e6212a6534490464bb9",
+      "title": "Neural Architecture for Temporal Relation Extraction: A Bi-LSTM Approach for Detecting Narrative Containers",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "3465287",
+          "name": "Julien Tourille"
+        },
+        {
+          "authorId": "1679133",
+          "name": "Olivier Ferret"
+        },
+        {
+          "authorId": "1692256",
+          "name": "Aurélie Névéol"
+        },
+        {
+          "authorId": "2404850",
+          "name": "Xavier Tannier"
+        }
+      ]
+    },
+    {
+      "paperId": "7f1b0539bec01e52c4ffa5543c5ed55880dead55",
+      "title": "Neural Temporal Relation Extraction",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "2105138",
+          "name": "Steven Bethard"
+        },
+        {
+          "authorId": "144950569",
+          "name": "Timothy Miller"
+        },
+        {
+          "authorId": "1839381",
+          "name": "Dmitriy Dligach"
+        },
+        {
+          "authorId": "2146249668",
+          "name": "Chen Lin"
+        },
+        {
+          "authorId": "1894531",
+          "name": "G. Savova"
+        }
+      ]
+    },
+    {
+      "paperId": "3aed6bb014e8179303bd8d30c9386d60e5fbb254",
+      "title": "CATENA: CAusal and TEmporal relation extraction from NAtural language texts",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "2814289",
+          "name": "Paramita Mirza"
+        },
+        {
+          "authorId": "1809243",
+          "name": "Sara Tonelli"
+        }
+      ]
+    },
+    {
+      "paperId": "13ee8994a11956de5ea6585d997205c36248f7e3",
+      "title": "Automatically Ordering Events and Times in Text",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "113320522",
+          "name": "Leon Derczynski"
+        }
+      ]
+    },
+    {
+      "paperId": "b5ef007ba38d83b2446521a7ca786d9c11ef06ae",
+      "title": "Temporal Anchoring of Events for the TimeBank Corpus",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "2959414",
+          "name": "Nils Reimers"
+        },
+        {
+          "authorId": "3103769",
+          "name": "Nazanin Dehghani"
+        },
+        {
+          "authorId": "1730400",
+          "name": "Iryna Gurevych"
+        }
+      ]
+    },
+    {
+      "paperId": "a2fc4a8882a03f7cb4ccc3711592005c1e4af2b9",
+      "title": "SemEval-2016 Task 12: Clinical TempEval",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "2105138",
+          "name": "Steven Bethard"
+        },
+        {
+          "authorId": "1894531",
+          "name": "G. Savova"
+        },
+        {
+          "authorId": "2154940844",
+          "name": "Wei-Te Chen"
+        },
+        {
+          "authorId": "113320522",
+          "name": "Leon Derczynski"
+        },
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        },
+        {
+          "authorId": "145539145",
+          "name": "M. Verhagen"
+        }
+      ]
+    },
+    {
+      "paperId": "fdaf0de9a6b3814ce06122228ddf3f45d64f33ee",
+      "title": "Multilayered temporal modeling for the clinical domain",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "2146249668",
+          "name": "Chen Lin"
+        },
+        {
+          "authorId": "1839381",
+          "name": "Dmitriy Dligach"
+        },
+        {
+          "authorId": "144950569",
+          "name": "Timothy Miller"
+        },
+        {
+          "authorId": "2105138",
+          "name": "Steven Bethard"
+        },
+        {
+          "authorId": "1894531",
+          "name": "G. Savova"
+        }
+      ]
+    },
+    {
+      "paperId": "f476bacb697bf6e58e6ecf6ceebcbcfb803ba5bd",
+      "title": "Stacking Approach to Temporal Relation Classification with Temporal Inference",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "2734498",
+          "name": "N. Laokulrat"
+        },
+        {
+          "authorId": "1731657",
+          "name": "Makoto Miwa"
+        },
+        {
+          "authorId": "143946906",
+          "name": "Yoshimasa Tsuruoka"
+        }
+      ]
+    },
+    {
+      "paperId": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+      "title": "Adam: A Method for Stochastic Optimization",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "1726807",
+          "name": "Diederik P. Kingma"
+        },
+        {
+          "authorId": "2503659",
+          "name": "Jimmy Ba"
+        }
+      ]
+    },
+    {
+      "paperId": "df4dcc3224e74f34e7c6bf7717ad76ec3b71a9b9",
+      "title": "Dense Event Ordering with a Multi-Pass Architecture",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "1729918",
+          "name": "Nathanael Chambers"
+        },
+        {
+          "authorId": "1739186",
+          "name": "Taylor Cassidy"
+        },
+        {
+          "authorId": "2064356436",
+          "name": "Bill McDowell"
+        },
+        {
+          "authorId": "2105138",
+          "name": "Steven Bethard"
+        }
+      ]
+    },
+    {
+      "paperId": "1f78e47c67c0ed3e5e3293337fa8c240dafa8b52",
+      "title": "An Annotation Framework for Dense Event Ordering",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "1739186",
+          "name": "Taylor Cassidy"
+        },
+        {
+          "authorId": "2064356436",
+          "name": "Bill McDowell"
+        },
+        {
+          "authorId": "1729918",
+          "name": "Nathanael Chambers"
+        },
+        {
+          "authorId": "2105138",
+          "name": "Steven Bethard"
+        }
+      ]
+    },
+    {
+      "paperId": "0d9d8be5ee0c1cda47beafea0ef0b14722cbd908",
+      "title": "SemEval-2013 Task 1: TempEval-3: Evaluating Time Expressions, Events, and Temporal Relations",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "3250075",
+          "name": "N. UzZaman"
+        },
+        {
+          "authorId": "1804906",
+          "name": "H. Llorens"
+        },
+        {
+          "authorId": "113320522",
+          "name": "Leon Derczynski"
+        },
+        {
+          "authorId": "145844737",
+          "name": "James F. Allen"
+        },
+        {
+          "authorId": "145539145",
+          "name": "M. Verhagen"
+        },
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        }
+      ]
+    },
+    {
+      "paperId": "9e33c6a1cb1697b518341e2ff34db54a39c1bbde",
+      "title": "ClearTK-TimeML: A minimalist approach to TempEval 2013",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "2105138",
+          "name": "Steven Bethard"
+        }
+      ]
+    },
+    {
+      "paperId": "39c230241d51b1435472115aaa8c62b94ab9927d",
+      "title": "Joint Inference for Event Timeline Construction",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "145625456",
+          "name": "Q. Do"
+        },
+        {
+          "authorId": "143844110",
+          "name": "Wei Lu"
+        },
+        {
+          "authorId": "144590225",
+          "name": "D. Roth"
+        }
+      ]
+    },
+    {
+      "paperId": "178658c7e0ff045801253679bd089460dfb437e0",
+      "title": "Temporal Evaluation",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "3250075",
+          "name": "N. UzZaman"
+        },
+        {
+          "authorId": "145844737",
+          "name": "James F. Allen"
+        }
+      ]
+    },
+    {
+      "paperId": "124f442cac7748c1182a2187f5eb233f54a50fa6",
+      "title": "Jointly Identifying Temporal Relations with Markov Logic",
+      "year": 2009,
+      "authors": [
+        {
+          "authorId": "2060333",
+          "name": "Katsumasa Yoshikawa"
+        },
+        {
+          "authorId": "48662861",
+          "name": "Sebastian Riedel"
+        },
+        {
+          "authorId": "1749558",
+          "name": "Masayuki Asahara"
+        },
+        {
+          "authorId": "1681502",
+          "name": "Yuji Matsumoto"
+        }
+      ]
+    },
+    {
+      "paperId": "57463ade370bc55714c744efb926a9ac3e9ea7ea",
+      "title": "Jointly Combining Implicit Constraints Improves Temporal Ordering",
+      "year": 2008,
+      "authors": [
+        {
+          "authorId": "1729918",
+          "name": "Nathanael Chambers"
+        },
+        {
+          "authorId": "1746807",
+          "name": "Dan Jurafsky"
+        }
+      ]
+    },
+    {
+      "paperId": "79fe6fe1810f7dec043fc5ebb6b3ce59da90c3cf",
+      "title": "Learning by Reading by Learning to Read",
+      "year": 2007,
+      "authors": [
+        {
+          "authorId": "2105138",
+          "name": "Steven Bethard"
+        },
+        {
+          "authorId": "10796472",
+          "name": "James H. Martin"
+        },
+        {
+          "authorId": "2372751",
+          "name": "Sara Klingenstein"
+        }
+      ]
+    },
+    {
+      "paperId": "fc82788021963ff8e318ffe955829bc68e48943a",
+      "title": "Machine Learning of Temporal Relations",
+      "year": 2006,
+      "authors": [
+        {
+          "authorId": "1729172",
+          "name": "I. Mani"
+        },
+        {
+          "authorId": "145539145",
+          "name": "M. Verhagen"
+        },
+        {
+          "authorId": "2107124",
+          "name": "Ben Wellner"
+        },
+        {
+          "authorId": "2495244",
+          "name": "Chong Min Lee"
+        },
+        {
+          "authorId": "1707726",
+          "name": "J. Pustejovsky"
+        }
+      ]
+    },
+    {
+      "paperId": "eb42a490cf4f186d3383c92963817d100afd81e2",
+      "title": "Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network",
+      "year": 2003,
+      "authors": [
+        {
+          "authorId": "3259253",
+          "name": "Kristina Toutanova"
+        },
+        {
+          "authorId": "38666915",
+          "name": "D. Klein"
+        },
+        {
+          "authorId": "144783904",
+          "name": "Christopher D. Manning"
+        },
+        {
+          "authorId": "1740765",
+          "name": "Y. Singer"
+        }
+      ]
+    },
+    {
+      "paperId": "2e9d221c206e9503ceb452302d68d10e293f2a10",
+      "title": "Long Short-Term Memory",
+      "year": 1997,
+      "authors": [
+        {
+          "authorId": "3308557",
+          "name": "Sepp Hochreiter"
+        },
+        {
+          "authorId": "145341374",
+          "name": "J. Schmidhuber"
+        }
+      ]
+    },
+    {
+      "paperId": "dcff7aa8ca9327ed1297cff206202bd3565eb8c1",
+      "title": "Constraint propagation algorithms for temporal reasoning: a revised report",
+      "year": 1989,
+      "authors": [
+        {
+          "authorId": "2200382",
+          "name": "M. Vilain"
+        },
+        {
+          "authorId": "1690271",
+          "name": "Henry A. Kautz"
+        },
+        {
+          "authorId": "1994523",
+          "name": "P. V. Beek"
+        }
+      ]
+    },
+    {
+      "paperId": "f4d642d674aa63aafc11562c2557cb4772946147",
+      "title": "Maintaining knowledge about temporal intervals",
+      "year": 1983,
+      "authors": [
+        {
+          "authorId": "145844737",
+          "name": "James F. Allen"
+        }
+      ]
+    },
+    {
+      "paperId": "7dce3c780c85c41ff9dfe7511962ecddb2291ab8",
+      "title": "Structured Learning for Temporal Relation Extraction from Clinical Records",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "145446752",
+          "name": "Marie-Francine Moens"
+        },
+        {
+          "authorId": "50596110",
+          "name": "A. Leeuwenberg"
+        }
+      ]
+    },
+    {
+      "paperId": "6f3175b3930d0c71495a52a7bccb3889e5f33520",
+      "title": "Generalization and Parameter Estimation in Feedforward Netws: Some Experiments",
+      "year": 1989,
+      "authors": [
+        {
+          "authorId": "144798098",
+          "name": "N. Morgan"
+        },
+        {
+          "authorId": "1733733",
+          "name": "H. Bourlard"
+        }
+      ]
+    },
+    {
+      "paperId": "886c5f9b38fc23821ee97901e84f3d2f4c71d5e7",
+      "title": "Proceedings of the Twenty-Second International Joint Conference on Artificial Intelligence Predicting Globally-Coherent Temporal Structures from Texts via Endpoint Inference and Graph Decomposition",
+      "year": null,
+      "authors": []
+    }
+  ]
+}

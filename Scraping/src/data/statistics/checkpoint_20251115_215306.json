@@ -1,0 +1,85 @@
+{
+  "start_time": "2025-11-15T17:58:48.636113",
+  "end_time": null,
+  "total_duration": 65.05783,
+  "papers": {
+    "total_identified": 0,
+    "total_attempted": 1,
+    "successfully_downloaded": 1,
+    "failed_downloads": 0,
+    "download_success_rate": 100.0
+  },
+  "versions": {
+    "total_versions": 3,
+    "successfully_processed": 3,
+    "failed_versions": 0
+  },
+  "file_sizes": {
+    "raw_sizes": [
+      3428202,
+      47083813,
+      47447957
+    ],
+    "extracted_sizes": [
+      544809,
+      167795,
+      168035
+    ],
+    "total_raw_size": 97959972,
+    "total_extracted_size": 880639,
+    "average_raw_size": 32653324.0,
+    "average_extracted_size": 293546.3333333333,
+    "space_saved_by_figure_removal": 97079333,
+    "figures_removed": 375
+  },
+  "references": {
+    "papers_with_references": 1,
+    "papers_without_references": 0,
+    "total_references": 95,
+    "average_references_per_paper": 95.0,
+    "reference_success_rate": 100.0
+  },
+  "performance": {
+    "phase_times": {
+      "Metadata Harvesting (arXiv API)": 0.009957075119018555,
+      "Source Download (Parallel)": 60.04173541069031,
+      "Reference Extraction (Parallel)": 3.2362937927246094
+    },
+    "paper_processing_times": [
+      0
+    ],
+    "average_time_per_paper": 0.0,
+    "fastest_paper_time": 0,
+    "slowest_paper_time": 0
+  },
+  "memory": {
+    "initial_ram_mb": 32.6328125,
+    "peak_ram_mb": 79.44140625,
+    "average_ram_mb": 50.407645089285715,
+    "ram_samples": [
+      32.7578125,
+      35.86328125,
+      44.11328125,
+      49.73828125,
+      58.23828125,
+      68.48828125,
+      75.23828125,
+      35.69140625,
+      35.69140625,
+      53.19140625,
+      65.44140625,
+      79.44140625,
+      35.84375,
+      35.96875,
+      32.04296875,
+      31.96875
+    ],
+    "initial_disk_gb": 0.016635927371680737,
+    "final_disk_gb": 0.01697695255279541,
+    "disk_space_used_gb": 0.0003410251811146736
+  },
+  "errors": {
+    "total_errors": 0,
+    "error_types": {}
+  }
+}

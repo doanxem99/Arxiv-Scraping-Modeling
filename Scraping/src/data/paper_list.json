@@ -1,0 +1,31 @@
+[
+  {
+    "arxiv_id": "2401.03048",
+    "title": "Latte: Latent Diffusion Transformer for Video Generation",
+    "authors": [
+      "Xin Ma",
+      "Yaohui Wang",
+      "Xinyuan Chen",
+      "Gengyun Jia",
+      "Ziwei Liu",
+      "Yuan-Fang Li",
+      "Cunjian Chen",
+      "Yu Qiao"
+    ],
+    "categories": [
+      "cs.CV"
+    ],
+    "abstract": "We propose Latte, a novel Latent Diffusion Transformer for video generation. Latte first extracts spatio-temporal tokens from input videos and then adopts a series of Transformer blocks to model video distribution in the latent space. In order to model a substantial number of tokens extracted from videos, four efficient variants are introduced from the perspective of decomposing the spatial and temporal dimensions of input videos. To improve the quality of generated videos, we determine the best practices of Latte through rigorous experimental analysis, including video clip patch embedding, model variants, timestep-class information injection, temporal positional embedding, and learning strategies. Our comprehensive evaluation demonstrates that Latte achieves state-of-the-art performance across four standard video generation datasets, i.e., FaceForensics, SkyTimelapse, UCF101, and Taichi-HD. In addition, we extend Latte to the text-to-video generation (T2V) task, where Latte achieves results that are competitive with recent T2V models. We strongly believe that Latte provides valuable insights for future research on incorporating Transformers into diffusion models for video generation.",
+    "published": "2024-01-05",
+    "updated": "2025-05-02",
+    "comments": "Accepted by Transactions on Machine Learning Research 2025; Project Page: https://maxin-cn.github.io/latte_project",
+    "license": "",
+    "versions": [
+      "2401.03048v1",
+      "2401.03048v2",
+      "2401.03048v3"
+    ],
+    "pdf_url": null,
+    "entry_id": "http://arxiv.org/abs/2401.03048v3"
+  }
+]

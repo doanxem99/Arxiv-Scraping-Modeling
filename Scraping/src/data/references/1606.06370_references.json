@@ -1,0 +1,801 @@
+{
+  "paperId": "cc09a1553107ace4a57cdb0be83d6899240530e1",
+  "title": "Independence and matching numbers of some token graphs",
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1606.06370, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "authors": [
+    {
+      "authorId": "8336244",
+      "name": "Hernán de Alba"
+    },
+    {
+      "authorId": "2700427",
+      "name": "W. Carballosa"
+    },
+    {
+      "authorId": "3227068",
+      "name": "J. Leaños"
+    },
+    {
+      "authorId": "145665584",
+      "name": "Luis Manuel Rivera"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "50f083df2aac1ee72cc7f6d877b5b2bdbb3680f2",
+      "externalIds": {
+        "DBLP": "journals/gc/LeanosT18",
+        "MAG": "2808762268",
+        "DOI": "10.1007/s00373-018-1913-9",
+        "CorpusId": 49648935
+      },
+      "title": "The Connectivity of Token Graphs",
+      "year": 2018,
+      "authors": [
+        {
+          "authorId": "3227068",
+          "name": "J. Leaños"
+        },
+        {
+          "authorId": "1419437102",
+          "name": "A. Trujillo-Negrete"
+        }
+      ]
+    },
+    {
+      "paperId": "4dea76e40ad2685e25e956824eb5ad2fd18bdb03",
+      "externalIds": {
+        "MAG": "2952461410",
+        "DBLP": "journals/dam/SotoLRR18",
+        "ArXiv": "1711.03682",
+        "DOI": "10.1016/J.DAM.2018.03.085",
+        "CorpusId": 52094896
+      },
+      "title": "The packing number of the double vertex graph of the path graph",
+      "year": 2017,
+      "authors": [
+        {
+          "authorId": "2058002058",
+          "name": "J. Soto"
+        },
+        {
+          "authorId": "3227068",
+          "name": "J. Leaños"
+        },
+        {
+          "authorId": "1432778384",
+          "name": "L. M. Ríos-Castro"
+        },
+        {
+          "authorId": "145665584",
+          "name": "Luis Manuel Rivera"
+        }
+      ]
+    },
+    {
+      "paperId": "72e304739156e04d867f39d226542bf4110f0d90",
+      "externalIds": {
+        "MAG": "2284995478",
+        "ArXiv": "1601.05016",
+        "CorpusId": 119317061
+      },
+      "title": "Cohen-Macaulayness of triangular graphs",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "8336244",
+          "name": "Hernán de Alba"
+        },
+        {
+          "authorId": "2700427",
+          "name": "W. Carballosa"
+        },
+        {
+          "authorId": "144930025",
+          "name": "Daniel Duarte"
+        },
+        {
+          "authorId": "145665584",
+          "name": "Luis Manuel Rivera"
+        }
+      ]
+    },
+    {
+      "paperId": "192c467053678f2dcba184b1990352c4eb374f05",
+      "externalIds": {
+        "DBLP": "journals/dm/Alavi15",
+        "MAG": "855170753",
+        "DOI": "10.1016/j.disc.2015.05.001",
+        "CorpusId": 37727960
+      },
+      "title": "A generalisation of Johnson graphs with an application to triple factorisations",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "34747601",
+          "name": "S. H. Alavi"
+        }
+      ]
+    },
+    {
+      "paperId": "e25ee93cdd803ccc4b43d326c4775e41282c87ca",
+      "externalIds": {
+        "MAG": "2192627873",
+        "ArXiv": "1510.00424",
+        "DBLP": "journals/dmgt/CarballosaMLR17",
+        "DOI": "10.7151/dmgt.1959",
+        "CorpusId": 1684339
+      },
+      "title": "Regularity and Planarity of Token Graphs",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "2700427",
+          "name": "W. Carballosa"
+        },
+        {
+          "authorId": "2707135",
+          "name": "Ruy Fabila Monroy"
+        },
+        {
+          "authorId": "3227068",
+          "name": "J. Leaños"
+        },
+        {
+          "authorId": "1443612493",
+          "name": "Luis Manuel Rivera-Martínez"
+        }
+      ]
+    },
+    {
+      "paperId": "09fc6c0b0e8b5f9577eec260feff1e9f98ba358f",
+      "externalIds": {
+        "DBLP": "conf/focs/KornhauserMS84",
+        "MAG": "1986164452",
+        "DOI": "10.1109/SFCS.1984.715921",
+        "CorpusId": 40949575
+      },
+      "title": "Coordinating Pebble Motion on Graphs, the Diameter of Permutation Groups, and Applications",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "144359312",
+          "name": "D. Kornhauser"
+        },
+        {
+          "authorId": "144985503",
+          "name": "G. Miller"
+        },
+        {
+          "authorId": "1687363",
+          "name": "P. Spirakis"
+        }
+      ]
+    },
+    {
+      "paperId": "10af5e2fb348d2addf1d446eeaf5e541aeb64cf2",
+      "externalIds": {
+        "MAG": "2064172831",
+        "DBLP": "conf/mobihoc/BujariCGMP15",
+        "DOI": "10.1145/2757290.2757292",
+        "CorpusId": 239163187
+      },
+      "title": "PathS: Enhancing Geographical Maps with Environmental Sensed Data",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "1693578",
+          "name": "Armir Bujari"
+        },
+        {
+          "authorId": "1734596",
+          "name": "Matteo Ciman"
+        },
+        {
+          "authorId": "1717342",
+          "name": "O. Gaggi"
+        },
+        {
+          "authorId": "1728804",
+          "name": "Gustavo Marfia"
+        },
+        {
+          "authorId": "4434293",
+          "name": "C. Palazzi"
+        }
+      ]
+    },
+    {
+      "paperId": "a36647a6d5e9e8006266dab2a5ef6df4ee4d762e",
+      "externalIds": {
+        "DBLP": "journals/tcs/YamanakaDIKKOSS15",
+        "MAG": "4487051",
+        "DOI": "10.1016/j.tcs.2015.01.052",
+        "CorpusId": 6293182
+      },
+      "title": "Swapping labeled tokens on graphs",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "1681066",
+          "name": "Katsuhisa Yamanaka"
+        },
+        {
+          "authorId": "1727384",
+          "name": "E. Demaine"
+        },
+        {
+          "authorId": "2882375",
+          "name": "Takehiro Ito"
+        },
+        {
+          "authorId": "48924271",
+          "name": "J. Kawahara"
+        },
+        {
+          "authorId": "1772482",
+          "name": "Masashi Kiyomi"
+        },
+        {
+          "authorId": "48218824",
+          "name": "Y. Okamoto"
+        },
+        {
+          "authorId": "1765120",
+          "name": "Toshiki Saitoh"
+        },
+        {
+          "authorId": "49810000",
+          "name": "Akira Suzuki"
+        },
+        {
+          "authorId": "3206334",
+          "name": "Kei Uchizawa"
+        },
+        {
+          "authorId": "1713302",
+          "name": "T. Uno"
+        }
+      ]
+    },
+    {
+      "paperId": "c062e835b6a712de1b0a1daee06d7fd539b8e85f",
+      "externalIds": {
+        "MAG": "1764796332",
+        "DBLP": "journals/corr/Heuvel13",
+        "ArXiv": "1312.2816",
+        "DOI": "10.1017/CBO9781139506748.005",
+        "CorpusId": 3042585
+      },
+      "title": "The complexity of change",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "1720621",
+          "name": "J. V. D. Heuvel"
+        }
+      ]
+    },
+    {
+      "paperId": "33c8963cd6c9e542b7e454ef8314e49149dc38d1",
+      "externalIds": {
+        "MAG": "1501556912",
+        "DOI": "10.1002/9781118032718.CH7",
+        "CorpusId": 118875540
+      },
+      "title": "The Chromatic Number",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "1732375",
+          "name": "S. Janson"
+        },
+        {
+          "authorId": "11264446",
+          "name": "Tomasz Łuczak"
+        },
+        {
+          "authorId": "3346977",
+          "name": "A. Rucinski"
+        }
+      ]
+    },
+    {
+      "paperId": "fee258d1c1c88c53ebf6a8d4d644f8fadd45c0b4",
+      "externalIds": {
+        "MAG": "2157775853",
+        "DBLP": "journals/amco/BrouwerE11",
+        "DOI": "10.3934/amc.2011.5.417",
+        "CorpusId": 8404965
+      },
+      "title": "Some new distance-4 constant weight codes",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "34867263",
+          "name": "A. Brouwer"
+        },
+        {
+          "authorId": "8025303",
+          "name": "T. Etzion"
+        }
+      ]
+    },
+    {
+      "paperId": "a69173ba62715d37f5cfc6d0c018046cf587f6d5",
+      "externalIds": {
+        "DBLP": "journals/gc/MonroyFHHUW12",
+        "MAG": "2913469604",
+        "ArXiv": "0910.4774",
+        "DOI": "10.1007/s00373-011-1055-9",
+        "CorpusId": 14686253
+      },
+      "title": "Token Graphs",
+      "year": 2009,
+      "authors": [
+        {
+          "authorId": "2707135",
+          "name": "Ruy Fabila Monroy"
+        },
+        {
+          "authorId": "1403125026",
+          "name": "D. Flores-Peñaloza"
+        },
+        {
+          "authorId": "21850689",
+          "name": "C. Huemer"
+        },
+        {
+          "authorId": "145155653",
+          "name": "F. Hurtado"
+        },
+        {
+          "authorId": "145719435",
+          "name": "J. Urrutia"
+        },
+        {
+          "authorId": "2288475196",
+          "name": "D. Wood"
+        }
+      ]
+    },
+    {
+      "paperId": "612ef85adc1df11eace6b577fa4e4a4a613814cb",
+      "externalIds": {
+        "MAG": "1529660315",
+        "DBLP": "journals/combinatorics/BarghiP09",
+        "DOI": "10.37236/209",
+        "CorpusId": 10247574
+      },
+      "title": "Non-Isomorphic Graphs with Cospectral Symmetric Powers",
+      "year": 2009,
+      "authors": [
+        {
+          "authorId": "2866796",
+          "name": "A. Barghi"
+        },
+        {
+          "authorId": "39846619",
+          "name": "I. Ponomarenko"
+        }
+      ]
+    },
+    {
+      "paperId": "aec745a1d7531e1d264f6f336e814b0569c99263",
+      "externalIds": {
+        "MAG": "2950177248",
+        "ArXiv": "0801.2322",
+        "DBLP": "journals/jct/AlzagaIP10",
+        "DOI": "10.1016/j.jctb.2010.07.001",
+        "CorpusId": 9448072
+      },
+      "title": "Spectra of symmetric powers of graphs and the Weisfeiler-Lehman refinements",
+      "year": 2008,
+      "authors": [
+        {
+          "authorId": "3253518",
+          "name": "Afredo Alzaga"
+        },
+        {
+          "authorId": "145612709",
+          "name": "Rodrigo Iglesias"
+        },
+        {
+          "authorId": "2966877",
+          "name": "Ricardo Pignol"
+        }
+      ]
+    },
+    {
+      "paperId": "f79770e6997b77eebcdd6fd223762f4065b0ecca",
+      "externalIds": {
+        "MAG": "1918113166",
+        "CorpusId": 119609283
+      },
+      "title": "Hamiltonicity of The Graph G(n, k) of The Johnson Scheme",
+      "year": 2007,
+      "authors": [
+        {
+          "authorId": "102286259",
+          "name": "Hans Riyono Ho"
+        }
+      ]
+    },
+    {
+      "paperId": "b38c82b437ec1200b183adc4fd13843b4e9af25e",
+      "externalIds": {
+        "MAG": "2098637407",
+        "DBLP": "conf/latin/CalinescuDP06",
+        "DOI": "10.1137/060652063",
+        "CorpusId": 5650285
+      },
+      "title": "Reconfigurations in Graphs and Grids",
+      "year": 2006,
+      "authors": [
+        {
+          "authorId": "1746764",
+          "name": "G. Călinescu"
+        },
+        {
+          "authorId": "1739233",
+          "name": "A. Dumitrescu"
+        },
+        {
+          "authorId": "1702379",
+          "name": "J. Pach"
+        }
+      ]
+    },
+    {
+      "paperId": "755966eff4869b690102d4c186591cf60395cc7b",
+      "externalIds": {
+        "MAG": "1576829074",
+        "DOI": "10.1007/BF02985847",
+        "CorpusId": 118032091
+      },
+      "title": "Across the board: The mathematics of chessboard problems",
+      "year": 2005,
+      "authors": [
+        {
+          "authorId": "1864070",
+          "name": "A. Benjamin"
+        }
+      ]
+    },
+    {
+      "paperId": "9bf3ca6873a303e1b15bc6308bc5f64f98a25cc6",
+      "externalIds": {
+        "ArXiv": "math/0507251",
+        "DBLP": "journals/jct/AudenaertGRR07",
+        "MAG": "2953302929",
+        "DOI": "10.1016/J.JCTB.2006.04.002",
+        "CorpusId": 7337167
+      },
+      "title": "Symmetric squares of graphs",
+      "year": 2005,
+      "authors": [
+        {
+          "authorId": "41214845",
+          "name": "K. Audenaert"
+        },
+        {
+          "authorId": "1789631",
+          "name": "C. Godsil"
+        },
+        {
+          "authorId": "1688178",
+          "name": "G. Royle"
+        },
+        {
+          "authorId": "145852716",
+          "name": "T. Rudolph"
+        }
+      ]
+    },
+    {
+      "paperId": "7f551331f6ccc19048b61a678a1cc0963a1bd7fe",
+      "externalIds": {
+        "ArXiv": "1805.10343",
+        "DBLP": "conf/mkm/Sloane07",
+        "MAG": "2126209209",
+        "DOI": "10.37236/1194",
+        "CorpusId": 147227
+      },
+      "title": "The On-Line Encyclopedia of Integer Sequences",
+      "year": 2003,
+      "authors": [
+        {
+          "authorId": "143992833",
+          "name": "N. Sloane"
+        }
+      ]
+    },
+    {
+      "paperId": "5a312b0c8676cbf20ef7e8240b87458886099e51",
+      "externalIds": {
+        "DBLP": "journals/gc/AlaviLL02",
+        "MAG": "2008697238",
+        "DOI": "10.1007/s003730200055",
+        "CorpusId": 33569862
+      },
+      "title": "Survey of Double Vertex Graphs",
+      "year": 2002,
+      "authors": [
+        {
+          "authorId": "33862782",
+          "name": "Y. Alavi"
+        },
+        {
+          "authorId": "3321885",
+          "name": "D. R. Lick"
+        },
+        {
+          "authorId": "2108334187",
+          "name": "Jiuqiang Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "3c14fa41afda50f8a87682148d37f84b85d2fb68",
+      "externalIds": {
+        "ArXiv": "quant-ph/0206068",
+        "MAG": "1506754921",
+        "CorpusId": 117089156
+      },
+      "title": "Constructing physically intuitive graph invariants",
+      "year": 2002,
+      "authors": [
+        {
+          "authorId": "145852716",
+          "name": "T. Rudolph"
+        }
+      ]
+    },
+    {
+      "paperId": "441ad03daeaa32956b641936f0593f053cef9953",
+      "externalIds": {
+        "MAG": "2083721544",
+        "DBLP": "journals/algorithmica/AulettaMPP99",
+        "DOI": "10.1007/PL00009259",
+        "CorpusId": 672515
+      },
+      "title": "A Linear-Time Algorithm for the Feasibility of Pebble Motion on Trees",
+      "year": 1999,
+      "authors": [
+        {
+          "authorId": "1783959",
+          "name": "V. Auletta"
+        },
+        {
+          "authorId": "40556179",
+          "name": "A. Monti"
+        },
+        {
+          "authorId": "145885429",
+          "name": "Mimmo Parente"
+        },
+        {
+          "authorId": "1778437",
+          "name": "G. Persiano"
+        }
+      ]
+    },
+    {
+      "paperId": "7e22e43d81dc7f1fecc31019155a9a51d2ebe70b",
+      "externalIds": {
+        "MAG": "2030424565",
+        "DBLP": "journals/dam/EtzionB96",
+        "DOI": "10.1016/0166-218X(96)00104-7",
+        "CorpusId": 13108883
+      },
+      "title": "On the Chromatic Number, Colorings, and Codes of the Johnson Graph",
+      "year": 1996,
+      "authors": [
+        {
+          "authorId": "8025303",
+          "name": "T. Etzion"
+        },
+        {
+          "authorId": "89781748",
+          "name": "Sara Bitan"
+        }
+      ]
+    },
+    {
+      "paperId": "0e2220d8d80181a50ac24dd3def48ca36e4ba2f4",
+      "externalIds": {
+        "MAG": "2034604437",
+        "DBLP": "journals/jsc/RatnerW90",
+        "DOI": "10.1016/S0747-7171(08)80001-6",
+        "CorpusId": 41447817
+      },
+      "title": "NxN Puzzle and Related Relocation Problem",
+      "year": 1990,
+      "authors": [
+        {
+          "authorId": "145292026",
+          "name": "D. Ratner"
+        },
+        {
+          "authorId": "1794034",
+          "name": "Manfred K. Warmuth"
+        }
+      ]
+    },
+    {
+      "paperId": "1b1960f7dad19e0bc3ec3dcbf33bbc190f42756d",
+      "externalIds": {
+        "MAG": "2066202292",
+        "DBLP": "journals/dm/Terwilliger86",
+        "DOI": "10.1016/0012-365X(86)90160-3",
+        "CorpusId": 9462650
+      },
+      "title": "The Johnson graph J(d, r) is unique if (d, r) != (2, 8)",
+      "year": 1986,
+      "authors": [
+        {
+          "authorId": "1808309",
+          "name": "Paul M. Terwilliger"
+        }
+      ]
+    },
+    {
+      "paperId": "c0230bb3fbf0a76c16e4ecbdd2792ef7c3359510",
+      "externalIds": {
+        "MAG": "2142293082",
+        "DBLP": "journals/tit/Johnson62",
+        "DOI": "10.1109/TIT.1962.1057714",
+        "CorpusId": 40160369
+      },
+      "title": "A new upper bound for error-correcting codes",
+      "year": 1962,
+      "authors": [
+        {
+          "authorId": "25695557",
+          "name": "Selmer M. Johnson"
+        }
+      ]
+    },
+    {
+      "paperId": null,
+      "externalIds": null,
+      "title": "Bounds on A(n",
+      "year": 2016,
+      "authors": []
+    },
+    {
+      "paperId": "0eb9670d67a682e8adc19639d7daa884193ce8b7",
+      "externalIds": {
+        "DBLP": "journals/ajc/Volkmann08",
+        "MAG": "2740593642",
+        "CorpusId": 31768053
+      },
+      "title": "A characterization of bipartite graphs with independence number half their order",
+      "year": 2008,
+      "authors": [
+        {
+          "authorId": "1693705",
+          "name": "L. Volkmann"
+        }
+      ]
+    },
+    {
+      "paperId": "2542c092ac3319e4b2a60a01872c3f0d7f5b97fd",
+      "externalIds": {
+        "CorpusId": 15172955
+      },
+      "title": "The ( n 2-1 )-Puzzle and Related Relocation Problems",
+      "year": 2008,
+      "authors": [
+        {
+          "authorId": "2081586884",
+          "name": "D. A N I E L R A T N E R A N D M A N F R E D W A R M"
+        }
+      ]
+    },
+    {
+      "paperId": "76051b7733422a38747cf91f68e988550c439c5d",
+      "externalIds": {
+        "MAG": "1601764037",
+        "CorpusId": 209829033
+      },
+      "title": "Bipartite graphs and their applications",
+      "year": 1998,
+      "authors": [
+        {
+          "authorId": "2209592",
+          "name": "A. Asratian"
+        },
+        {
+          "authorId": "2728894",
+          "name": "Tristan Denley"
+        },
+        {
+          "authorId": "2515143",
+          "name": "R. Häggkvist"
+        }
+      ]
+    },
+    {
+      "paperId": null,
+      "externalIds": null,
+      "title": "graphs and",
+      "year": 1998,
+      "authors": []
+    },
+    {
+      "paperId": "df5056049a1ee83f7b55d012dfe39cf113d05d17",
+      "externalIds": {
+        "MAG": "171031488",
+        "CorpusId": 118287333
+      },
+      "title": "Reducibility among combinatorial problems\" in complexity of computer computations",
+      "year": 1972,
+      "authors": [
+        {
+          "authorId": "47546648",
+          "name": "R. Karp"
+        }
+      ]
+    },
+    {
+      "paperId": "9fb53a3bdfb47230eeaf7d956b1a238db5cba690",
+      "externalIds": {
+        "DBLP": "books/daglib/p/Karp10",
+        "MAG": "2401610261",
+        "DOI": "10.1007/978-3-540-68279-0_8",
+        "CorpusId": 33509266
+      },
+      "title": "Reducibility Among Combinatorial Problems",
+      "year": 1972,
+      "authors": [
+        {
+          "authorId": "47546648",
+          "name": "R. Karp"
+        }
+      ]
+    },
+    {
+      "paperId": "764ace9519283e45664e490a6df581cb68b5250b",
+      "externalIds": {
+        "MAG": "2059608229",
+        "DOI": "10.4153/CJM-1965-045-4",
+        "CorpusId": 18909734
+      },
+      "title": "Paths, Trees, and Flowers",
+      "year": 1965,
+      "authors": [
+        {
+          "authorId": "145884132",
+          "name": "J. Edmonds"
+        }
+      ]
+    },
+    {
+      "paperId": null,
+      "externalIds": null,
+      "title": "If i ∈ { 2 , . . . , p − 1 } , then L i ≈ L p − i +1 and [ { 1 , i } , { i, p } ] is an edge of F 2 ( C p ) witnessing this fact",
+      "year": null,
+      "authors": []
+    },
+    {
+      "paperId": null,
+      "externalIds": null,
+      "title": "All the links between members of {L 1",
+      "year": null,
+      "authors": []
+    },
+    {
+      "paperId": null,
+      "externalIds": null,
+      "title": "If L i ≈ L j for some i, j ∈ { 1 , . . . , p − 1 } with i 6 = j , then L i ≈ L j is one of the described in (1) or (2). 12",
+      "year": null,
+      "authors": []
+    }
+  ]
+}

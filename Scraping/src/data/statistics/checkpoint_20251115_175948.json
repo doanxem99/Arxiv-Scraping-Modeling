@@ -1,0 +1,79 @@
+{
+  "start_time": "2025-11-15T17:58:48.636113",
+  "end_time": null,
+  "total_duration": 0,
+  "papers": {
+    "total_identified": 0,
+    "total_attempted": 1,
+    "successfully_downloaded": 0,
+    "failed_downloads": 0,
+    "download_success_rate": 0
+  },
+  "versions": {
+    "total_versions": 3,
+    "successfully_processed": 3,
+    "failed_versions": 0
+  },
+  "file_sizes": {
+    "raw_sizes": [
+      3428202,
+      47083813,
+      47447957
+    ],
+    "extracted_sizes": [
+      544809,
+      167795,
+      168035
+    ],
+    "total_raw_size": 0,
+    "total_extracted_size": 0,
+    "average_raw_size": 0,
+    "average_extracted_size": 0,
+    "space_saved_by_figure_removal": 0,
+    "figures_removed": 375
+  },
+  "references": {
+    "papers_with_references": 0,
+    "papers_without_references": 0,
+    "total_references": 0,
+    "average_references_per_paper": 0,
+    "reference_success_rate": 0
+  },
+  "performance": {
+    "phase_times": {
+      "Metadata Harvesting (arXiv API)": 0.007010459899902344,
+      "Source Download (Parallel)": 60.04173541069031
+    },
+    "paper_processing_times": [],
+    "average_time_per_paper": 0,
+    "fastest_paper_time": Infinity,
+    "slowest_paper_time": 0
+  },
+  "memory": {
+    "initial_ram_mb": 32.6328125,
+    "peak_ram_mb": 79.44140625,
+    "average_ram_mb": 0,
+    "ram_samples": [
+      32.7578125,
+      35.86328125,
+      44.11328125,
+      49.73828125,
+      58.23828125,
+      68.48828125,
+      75.23828125,
+      35.69140625,
+      35.69140625,
+      53.19140625,
+      65.44140625,
+      79.44140625,
+      35.84375
+    ],
+    "initial_disk_gb": 0.016635927371680737,
+    "final_disk_gb": 0,
+    "disk_space_used_gb": 0
+  },
+  "errors": {
+    "total_errors": 0,
+    "error_types": {}
+  }
+}

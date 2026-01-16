@@ -1,0 +1,1213 @@
+{
+  "paperId": "9be8057c202926842e17478ebbe9e0025ae4597a",
+  "title": "Lassoing saddle splay and the geometrical control of topological defects",
+  "openAccessPdf": {
+    "url": "https://www.pnas.org/content/pnas/113/26/7106.full.pdf",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/1602.06992, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "authors": [
+    {
+      "authorId": "49313510",
+      "name": "Lisa Tran"
+    },
+    {
+      "authorId": "7587049",
+      "name": "M. Lavrentovich"
+    },
+    {
+      "authorId": "2770001",
+      "name": "Daniel A. Beller"
+    },
+    {
+      "authorId": "8342492",
+      "name": "Ningwei Li"
+    },
+    {
+      "authorId": "6107224",
+      "name": "K. Stebe"
+    },
+    {
+      "authorId": "1837651",
+      "name": "R. Kamien"
+    }
+  ],
+  "references": [
+    {
+      "paperId": "e14e0a785490f70236f23fa266f7baea1b3402ac",
+      "externalIds": {
+        "MAG": "2176858369",
+        "DOI": "10.1039/c5sm02417j",
+        "CorpusId": 6456776,
+        "PubMed": "26610395"
+      },
+      "title": "Relevance of saddle-splay elasticity in complex nematic geometries.",
+      "year": 2016,
+      "authors": [
+        {
+          "authorId": "9906062",
+          "name": "Žiga Kos"
+        },
+        {
+          "authorId": "39539893",
+          "name": "M. Ravnik"
+        }
+      ]
+    },
+    {
+      "paperId": "f37864d87c61c4887fb66514e7c3678fafa0b633",
+      "externalIds": {
+        "MAG": "2183324946",
+        "ArXiv": "1504.03619",
+        "DOI": "10.1103/PhysRevE.91.050501",
+        "CorpusId": 4800570,
+        "PubMed": "26066106"
+      },
+      "title": "Chiral structures and defects of lyotropic chromonic liquid crystals induced by saddle-splay elasticity.",
+      "year": 2015,
+      "authors": [
+        {
+          "authorId": "3522272",
+          "name": "Z. Davidson"
+        },
+        {
+          "authorId": "4556087",
+          "name": "Louis Kang"
+        },
+        {
+          "authorId": "2184251",
+          "name": "Joonwoo Jeong"
+        },
+        {
+          "authorId": "91273626",
+          "name": "T. Still"
+        },
+        {
+          "authorId": "33363516",
+          "name": "P. Collings"
+        },
+        {
+          "authorId": "5056448",
+          "name": "T. Lubensky"
+        },
+        {
+          "authorId": "8307535",
+          "name": "A. Yodh"
+        }
+      ]
+    },
+    {
+      "paperId": "eee4f046bef046cdecfa4e16c69ffa3400d933e2",
+      "externalIds": {
+        "MAG": "3102193923",
+        "ArXiv": "1408.5883",
+        "DOI": "10.1039/C4SM01910E",
+        "CorpusId": 28714044,
+        "PubMed": "25523158"
+      },
+      "title": "Shape-controlled orientation and assembly of colloids with sharp edges in nematic liquid crystals.",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "2770001",
+          "name": "Daniel A. Beller"
+        },
+        {
+          "authorId": "48808036",
+          "name": "M. Gharbi"
+        },
+        {
+          "authorId": "40487612",
+          "name": "I. B. Liu"
+        }
+      ]
+    },
+    {
+      "paperId": "f52f0b10d924a220072827a21e71e8af93bae788",
+      "externalIds": {
+        "MAG": "1986088423",
+        "DOI": "10.1080/15421406.2014.917455",
+        "CorpusId": 93476424
+      },
+      "title": "Topological Soft Matter for Optics and Photonics",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "39539893",
+          "name": "M. Ravnik"
+        },
+        {
+          "authorId": "3437822",
+          "name": "S. Žumer"
+        }
+      ]
+    },
+    {
+      "paperId": "ec1100f84bff24827a7839b7d41d877bc958f526",
+      "externalIds": {
+        "ArXiv": "1308.2404",
+        "MAG": "1969939024",
+        "DOI": "10.1073/pnas.1313551110",
+        "CorpusId": 1214629,
+        "PubMed": "24191037"
+      },
+      "title": "Exploiting imperfections in the bulk to direct assembly of surface colloids",
+      "year": 2013,
+      "authors": [
+        {
+          "authorId": "2074048200",
+          "name": "Marcello Cavallaro"
+        },
+        {
+          "authorId": "48808036",
+          "name": "M. Gharbi"
+        },
+        {
+          "authorId": "2770001",
+          "name": "Daniel A. Beller"
+        },
+        {
+          "authorId": "5191046",
+          "name": "S. C̆opar"
+        },
+        {
+          "authorId": "46450985",
+          "name": "Zheng Shi"
+        },
+        {
+          "authorId": "2397472",
+          "name": "T. Baumgart"
+        },
+        {
+          "authorId": "145617197",
+          "name": "Shu Yang"
+        },
+        {
+          "authorId": "1837651",
+          "name": "R. Kamien"
+        },
+        {
+          "authorId": "6107224",
+          "name": "K. Stebe"
+        }
+      ]
+    },
+    {
+      "paperId": "8a8c8e5283a71d9ce1d4d12c4ed4c15b3059b573",
+      "externalIds": {
+        "DBLP": "journals/nature/SenyukLHKKLS13",
+        "ArXiv": "1612.08753",
+        "DOI": "10.1038/nature11710",
+        "CorpusId": 4343186,
+        "PubMed": "23263182"
+      },
+      "title": "Topological colloids",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "3983877",
+          "name": "B. Senyuk"
+        },
+        {
+          "authorId": "3404863",
+          "name": "Qingkun Liu"
+        },
+        {
+          "authorId": "144114046",
+          "name": "Sailing He"
+        },
+        {
+          "authorId": "1837651",
+          "name": "R. Kamien"
+        },
+        {
+          "authorId": "153860102",
+          "name": "R. Kusner"
+        },
+        {
+          "authorId": "5056448",
+          "name": "T. Lubensky"
+        },
+        {
+          "authorId": "4342243",
+          "name": "I. Smalyukh"
+        }
+      ]
+    },
+    {
+      "paperId": "a401705f655cfe232bd11588ae6af2141d0bbcb3",
+      "externalIds": {
+        "MAG": "2746462535",
+        "ArXiv": "1212.1771",
+        "DOI": "10.1073/pnas.1221380110",
+        "CorpusId": 10318161,
+        "PubMed": "23690570"
+      },
+      "title": "Stable nematic droplets with handles",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "10019954",
+          "name": "E. Pairam"
+        },
+        {
+          "authorId": "8412274",
+          "name": "Jayalakshmi Vallamkondu"
+        },
+        {
+          "authorId": "10024069",
+          "name": "V. Koning"
+        },
+        {
+          "authorId": "10014305",
+          "name": "Benjamin C. van Zuiden"
+        },
+        {
+          "authorId": "3611289",
+          "name": "P. W. Ellis"
+        },
+        {
+          "authorId": "88531952",
+          "name": "M. A. Bates"
+        },
+        {
+          "authorId": "2143559",
+          "name": "V. Vitelli"
+        },
+        {
+          "authorId": "1389092406",
+          "name": "A. Fernández-Nieves"
+        }
+      ]
+    },
+    {
+      "paperId": "69bab592ac4e442075855f53dfaf63d5f4d387ab",
+      "externalIds": {
+        "MAG": "2027265077",
+        "ArXiv": "1210.1881",
+        "DOI": "10.1080/02678292.2012.755223",
+        "CorpusId": 119249950
+      },
+      "title": "Microbullet assembly: interactions of oriented dipoles in confined nematic liquid crystal",
+      "year": 2012,
+      "authors": [
+        {
+          "authorId": "48808036",
+          "name": "M. Gharbi"
+        },
+        {
+          "authorId": "2074048200",
+          "name": "Marcello Cavallaro"
+        },
+        {
+          "authorId": "5030503",
+          "name": "Gaoxiang Wu"
+        },
+        {
+          "authorId": "2770001",
+          "name": "Daniel A. Beller"
+        },
+        {
+          "authorId": "1837651",
+          "name": "R. Kamien"
+        },
+        {
+          "authorId": "145617197",
+          "name": "Shu Yang"
+        },
+        {
+          "authorId": "6107224",
+          "name": "K. Stebe"
+        }
+      ]
+    },
+    {
+      "paperId": "75b962a5b584a1efa308a479e76e6b934abbbf14",
+      "externalIds": {
+        "MAG": "2135742687",
+        "ArXiv": "1109.5387",
+        "DOI": "10.1140/epje/i2011-11130-8",
+        "CorpusId": 11799029,
+        "PubMed": "22167584"
+      },
+      "title": "Conformational dynamics and internal friction in homopolymer globules: equilibrium vs. non-equilibrium simulations",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "6115467",
+          "name": "T. Einert"
+        },
+        {
+          "authorId": "2253705999",
+          "name": "Charles E. Sing"
+        },
+        {
+          "authorId": "1397319673",
+          "name": "A. Alexander-Katz"
+        },
+        {
+          "authorId": "2227226873",
+          "name": "Roland R. Netz Physik Department"
+        },
+        {
+          "authorId": "102152038",
+          "name": "Technische Universitaet Muenchen"
+        },
+        {
+          "authorId": "2254088549",
+          "name": "James-Franck-Strasse"
+        },
+        {
+          "authorId": "2254085823",
+          "name": "Germany Department of Materials Science"
+        },
+        {
+          "authorId": "2254088811",
+          "name": "Engineering"
+        },
+        {
+          "authorId": "51432736",
+          "name": "M. I. O. Technology"
+        },
+        {
+          "authorId": "2228985556",
+          "name": "Cambridge"
+        },
+        {
+          "authorId": "2253552274",
+          "name": "Ma"
+        },
+        {
+          "authorId": "2151791550",
+          "name": "Ulrich Nowak Fachbereich Physik"
+        },
+        {
+          "authorId": "103036744",
+          "name": "Freie Universitat Berlin"
+        },
+        {
+          "authorId": "2072232667",
+          "name": "Berlin"
+        },
+        {
+          "authorId": "2253691388",
+          "name": "Germany"
+        }
+      ]
+    },
+    {
+      "paperId": "070fec57328128786c9e1aebd63ad82255e7fe50",
+      "externalIds": {
+        "MAG": "1985761206",
+        "ArXiv": "1107.1619",
+        "DOI": "10.1126/science.1205705",
+        "CorpusId": 2015299,
+        "PubMed": "21719671"
+      },
+      "title": "Reconfigurable Knots and Links in Chiral Nematic Colloids",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "4169951",
+          "name": "U. Tkalec"
+        },
+        {
+          "authorId": "39539893",
+          "name": "M. Ravnik"
+        },
+        {
+          "authorId": "5191046",
+          "name": "S. C̆opar"
+        },
+        {
+          "authorId": "3437822",
+          "name": "S. Žumer"
+        },
+        {
+          "authorId": "2970804",
+          "name": "I. Muševič"
+        }
+      ]
+    },
+    {
+      "paperId": "5f2e22c842d27b407d77ec1404f8c1b4a89c8713",
+      "externalIds": {
+        "MAG": "2119472984",
+        "DOI": "10.1038/nmat2982",
+        "CorpusId": 205405409,
+        "PubMed": "21423186"
+      },
+      "title": "Memory and topological frustration in nematic liquid crystals confined in porous materials.",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "4246094",
+          "name": "Takeaki Araki"
+        },
+        {
+          "authorId": "37698153",
+          "name": "M. Buscaglia"
+        },
+        {
+          "authorId": "2058271",
+          "name": "T. Bellini"
+        },
+        {
+          "authorId": "50426395",
+          "name": "Hajime Tanaka"
+        }
+      ]
+    },
+    {
+      "paperId": "b964249b2d6efcdb3e83e9b3cab23793238b7698",
+      "externalIds": {
+        "MAG": "2027225980",
+        "DOI": "10.1103/PHYSREVLETT.106.097801",
+        "CorpusId": 35748420,
+        "PubMed": "21405651"
+      },
+      "title": "Ring defects in a strongly confined chiral liquid crystal.",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "144753701",
+          "name": "J. Fukuda"
+        },
+        {
+          "authorId": "3437822",
+          "name": "S. Žumer"
+        }
+      ]
+    },
+    {
+      "paperId": "c6e88b2aa308b0b355c63aa660acbc2903d09452",
+      "externalIds": {
+        "MAG": "2102269540",
+        "DOI": "10.1073/pnas.1015831108",
+        "CorpusId": 28221907,
+        "PubMed": "21368186"
+      },
+      "title": "Three-dimensional colloidal crystals in liquid crystalline blue phases",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "39539893",
+          "name": "M. Ravnik"
+        },
+        {
+          "authorId": "145395037",
+          "name": "G. P. Alexander"
+        },
+        {
+          "authorId": "2751273",
+          "name": "J. Yeomans"
+        },
+        {
+          "authorId": "3437822",
+          "name": "S. Žumer"
+        }
+      ]
+    },
+    {
+      "paperId": "2e7ec9195f26e1cfae94a286fa21ad99ac27602f",
+      "externalIds": {
+        "MAG": "1975316090",
+        "DOI": "10.1140/epje/i2011-11017-8",
+        "CorpusId": 10748520,
+        "PubMed": "21340674"
+      },
+      "title": "Theoretical and experimental study of the nanoparticle-driven blue phase stabilisation",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "50405855",
+          "name": "B. Rožič"
+        },
+        {
+          "authorId": "12841330",
+          "name": "V. Tzitzios"
+        },
+        {
+          "authorId": "15177815",
+          "name": "E. Karatairi"
+        },
+        {
+          "authorId": "4169951",
+          "name": "U. Tkalec"
+        },
+        {
+          "authorId": "4579806",
+          "name": "G. Nounesis"
+        },
+        {
+          "authorId": "6314001",
+          "name": "Z. Kutnjak"
+        },
+        {
+          "authorId": "9872229",
+          "name": "G. Cordoyiannis"
+        },
+        {
+          "authorId": "2121077",
+          "name": "R. Rosso"
+        },
+        {
+          "authorId": "3997956",
+          "name": "E. Virga"
+        },
+        {
+          "authorId": "2970804",
+          "name": "I. Muševič"
+        },
+        {
+          "authorId": "4693788",
+          "name": "S. Kralj"
+        }
+      ]
+    },
+    {
+      "paperId": "3b6107dfd4f9e2fdf7528b7ec554ca2722b4952f",
+      "externalIds": {
+        "MAG": "2108880587",
+        "DOI": "10.1140/epje/i2011-11001-4",
+        "CorpusId": 207101837,
+        "PubMed": "21234741"
+      },
+      "title": "Understanding and predicting viscous, elastic, plastic flows",
+      "year": 2011,
+      "authors": [
+        {
+          "authorId": "7001721",
+          "name": "I. Cheddadi"
+        },
+        {
+          "authorId": "2112292",
+          "name": "P. Saramito"
+        },
+        {
+          "authorId": "4977823",
+          "name": "B. Dollet"
+        },
+        {
+          "authorId": "4232227",
+          "name": "C. Raufaste"
+        },
+        {
+          "authorId": "6432799",
+          "name": "François Graner"
+        }
+      ]
+    },
+    {
+      "paperId": "bee1a5f6db307906d718c647f58d043e659d6f88",
+      "externalIds": {
+        "MAG": "2049837684",
+        "DOI": "10.1002/MACP.201000123",
+        "CorpusId": 98315615
+      },
+      "title": "Liquid Crystals: Viscous and Elastic Properties",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "34798144",
+          "name": "T. White"
+        }
+      ]
+    },
+    {
+      "paperId": "d90474457f21e0a535816684c80145d4c2b80f01",
+      "externalIds": {
+        "MAG": "2038211556",
+        "DOI": "10.1103/PHYSREVLETT.104.017801",
+        "CorpusId": 36554732,
+        "PubMed": "20366394"
+      },
+      "title": "Novel defect structures in a strongly confined liquid-crystalline blue phase.",
+      "year": 2010,
+      "authors": [
+        {
+          "authorId": "144753701",
+          "name": "J. Fukuda"
+        },
+        {
+          "authorId": "3437822",
+          "name": "S. Žumer"
+        }
+      ]
+    },
+    {
+      "paperId": "f556fdc10550e7d00a727eb2eacd284d75a6358b",
+      "externalIds": {
+        "MAG": "2001541060",
+        "DOI": "10.1080/02678290903056095",
+        "CorpusId": 120374047
+      },
+      "title": "Landau–de Gennes modelling of nematic liquid crystal colloids",
+      "year": 2009,
+      "authors": [
+        {
+          "authorId": "39539893",
+          "name": "M. Ravnik"
+        },
+        {
+          "authorId": "3437822",
+          "name": "S. Žumer"
+        }
+      ]
+    },
+    {
+      "paperId": "60f6d29577ee2258ded3e352aa638a65c2b9a208",
+      "externalIds": {
+        "MAG": "1992737607",
+        "DOI": "10.1103/PHYSREVE.77.031705",
+        "CorpusId": 36991779,
+        "PubMed": "18517404"
+      },
+      "title": "Interactions of quadrupolar nematic colloids.",
+      "year": 2008,
+      "authors": [
+        {
+          "authorId": "6392896",
+          "name": "M. Škarabot"
+        },
+        {
+          "authorId": "39539893",
+          "name": "M. Ravnik"
+        },
+        {
+          "authorId": "3437822",
+          "name": "S. Žumer"
+        },
+        {
+          "authorId": "4169951",
+          "name": "U. Tkalec"
+        },
+        {
+          "authorId": "134113374",
+          "name": "I. Poberaj"
+        },
+        {
+          "authorId": "153518122",
+          "name": "D. Babič"
+        },
+        {
+          "authorId": "3326436",
+          "name": "N. Osterman"
+        },
+        {
+          "authorId": "2970804",
+          "name": "I. Muševič"
+        }
+      ]
+    },
+    {
+      "paperId": "9fe53440638eb98f85ca5d6d8b78370ca63a9ae4",
+      "externalIds": {
+        "MAG": "2001350237",
+        "DOI": "10.1103/PHYSREVE.74.011712",
+        "CorpusId": 3951860,
+        "PubMed": "16907116"
+      },
+      "title": "Undulations of lamellar liquid crystals in cells with finite surface anchoring near and well above the threshold.",
+      "year": 2006,
+      "authors": [
+        {
+          "authorId": "3983877",
+          "name": "B. Senyuk"
+        },
+        {
+          "authorId": "4342243",
+          "name": "I. Smalyukh"
+        },
+        {
+          "authorId": "4325534",
+          "name": "O. Lavrentovich"
+        }
+      ]
+    },
+    {
+      "paperId": "02e7a473bc1ef9ffc6a10e76740cfcaf07fd0377",
+      "externalIds": {
+        "MAG": "1990967381",
+        "DOI": "10.1038/nature03932",
+        "CorpusId": 4307675,
+        "PubMed": "16107843"
+      },
+      "title": "Liquid crystal ‘blue phases’ with a wide temperature range",
+      "year": 2005,
+      "authors": [
+        {
+          "authorId": "40070394",
+          "name": "H. Coles"
+        },
+        {
+          "authorId": "48164202",
+          "name": "M. Pivnenko"
+        }
+      ]
+    },
+    {
+      "paperId": "9d95efdda511b7ced1950902bda738c307fe78a3",
+      "externalIds": {
+        "MAG": "2005685890",
+        "DOI": "10.1103/PHYSREVLETT.92.185501",
+        "CorpusId": 14826996,
+        "PubMed": "15169496"
+      },
+      "title": "Direct observation of anisotropic interparticle forces in nematic colloids with optical tweezers.",
+      "year": 2004,
+      "authors": [
+        {
+          "authorId": "30165758",
+          "name": "M. Yada"
+        },
+        {
+          "authorId": "2273447",
+          "name": "J. Yamamoto"
+        },
+        {
+          "authorId": "48765263",
+          "name": "H. Yokoyama"
+        }
+      ]
+    },
+    {
+      "paperId": "1d3c7a25bd4bed03a1ec83e8d78cd131c190f222",
+      "externalIds": {
+        "MAG": "1518694232",
+        "CorpusId": 117186287
+      },
+      "title": "Soft Matter Physics: An Introduction",
+      "year": 2002,
+      "authors": [
+        {
+          "authorId": "48561151",
+          "name": "M. Kleman"
+        },
+        {
+          "authorId": "4325534",
+          "name": "O. Lavrentovich"
+        },
+        {
+          "authorId": "47576430",
+          "name": "J. Friedel"
+        }
+      ]
+    },
+    {
+      "paperId": "e85f64f2e7a65e36589922e6b03b741cbcd80ade",
+      "externalIds": {
+        "ArXiv": "cond-mat/0203127",
+        "MAG": "2150086799",
+        "DOI": "10.1103/RevModPhys.74.953",
+        "CorpusId": 14924435
+      },
+      "title": "The Geometry of Soft Materials: A Primer",
+      "year": 2002,
+      "authors": [
+        {
+          "authorId": "1837651",
+          "name": "R. Kamien"
+        }
+      ]
+    },
+    {
+      "paperId": "ee09ea13888afdafbce211ca1e62471f6999b18c",
+      "externalIds": {
+        "MAG": "1986058898",
+        "DOI": "10.1016/S0370-1573(00)00144-7",
+        "CorpusId": 120132078
+      },
+      "title": "Physics of colloidal dispersions in nematic liquid crystals",
+      "year": 2001,
+      "authors": [
+        {
+          "authorId": "144823549",
+          "name": "H. Stark"
+        }
+      ]
+    },
+    {
+      "paperId": "3c419f7b4e1c872333ab9bfe597f3621f0dfec13",
+      "externalIds": {
+        "MAG": "2006256872",
+        "DOI": "10.1103/PHYSREVLETT.86.4052",
+        "CorpusId": 41817376,
+        "PubMed": "11328093"
+      },
+      "title": "Electro-optic behavior of liquid-crystal-filled silica opal photonic crystals: effect of liquid-crystal alignment.",
+      "year": 2001,
+      "authors": [
+        {
+          "authorId": "2249706238",
+          "name": "Daeseung Kang"
+        },
+        {
+          "authorId": "2321632",
+          "name": "J. Maclennan"
+        },
+        {
+          "authorId": "2238951599",
+          "name": "Noel A. Clark"
+        },
+        {
+          "authorId": "35163175",
+          "name": "A. Zakhidov"
+        },
+        {
+          "authorId": "2242238496",
+          "name": "Ray H. Baughman"
+        }
+      ]
+    },
+    {
+      "paperId": "4d3fd7c50c97576979792003af3ba99a852b8859",
+      "externalIds": {
+        "MAG": "2106812313",
+        "DOI": "10.1016/S0009-2614(00)01471-8",
+        "CorpusId": 96558367
+      },
+      "title": "Three-dimensional imaging of orientational order by fluorescence confocal polarizing microscopy",
+      "year": 2001,
+      "authors": [
+        {
+          "authorId": "4342243",
+          "name": "I. Smalyukh"
+        },
+        {
+          "authorId": "5477046",
+          "name": "S. Shiyanovskii"
+        },
+        {
+          "authorId": "4325534",
+          "name": "O. Lavrentovich"
+        }
+      ]
+    },
+    {
+      "paperId": "b1610e5b2218c3591d83d885bd5d9ba8272b1b88",
+      "externalIds": {
+        "MAG": "1995994272",
+        "DOI": "10.1080/02678290050043932",
+        "CorpusId": 120085218
+      },
+      "title": "The role of surface tilt in the operation of pi-cell liquid crystal devices",
+      "year": 2000,
+      "authors": [
+        {
+          "authorId": "113452831",
+          "name": "E. Acosta"
+        },
+        {
+          "authorId": "39814707",
+          "name": "M. Towler"
+        },
+        {
+          "authorId": "152471461",
+          "name": "H. Walton"
+        }
+      ]
+    },
+    {
+      "paperId": "d811a54cfa2411d6ab30e399dad41c11b445b445",
+      "externalIds": {
+        "MAG": "2125031818",
+        "DOI": "10.1080/026782999204840",
+        "CorpusId": 122857565
+      },
+      "title": "Twist transition in nematic droplets: a stability analysis",
+      "year": 1999,
+      "authors": [
+        {
+          "authorId": "97816326",
+          "name": "A. Rudinger"
+        },
+        {
+          "authorId": "144823549",
+          "name": "H. Stark"
+        }
+      ]
+    },
+    {
+      "paperId": "7492ca31db510cead6be336e21bcd1759bec51ed",
+      "externalIds": {
+        "MAG": "2027650481",
+        "DOI": "10.1103/PHYSREVE.58.7447",
+        "CorpusId": 122009021
+      },
+      "title": "Molecular dynamics study of nematic structures confined to a cylindrical cavity",
+      "year": 1998,
+      "authors": [
+        {
+          "authorId": "50278930",
+          "name": "Z. Bradac"
+        },
+        {
+          "authorId": "4693788",
+          "name": "S. Kralj"
+        },
+        {
+          "authorId": "3437822",
+          "name": "S. Žumer"
+        }
+      ]
+    },
+    {
+      "paperId": "b5caec945ce19ee3ce8fdef985c94f10863ed934",
+      "externalIds": {
+        "MAG": "1993612582",
+        "DOI": "10.1126/SCIENCE.275.5307.1770",
+        "CorpusId": 14397003,
+        "PubMed": "9065396"
+      },
+      "title": "Novel Colloidal Interactions in Anisotropic Fluids",
+      "year": 1997,
+      "authors": [
+        {
+          "authorId": "51007406",
+          "name": "P. Poulin"
+        },
+        {
+          "authorId": "144823549",
+          "name": "H. Stark"
+        },
+        {
+          "authorId": "5056448",
+          "name": "T. Lubensky"
+        },
+        {
+          "authorId": "143675556",
+          "name": "D. Weitz"
+        }
+      ]
+    },
+    {
+      "paperId": "761dd0e6dce9c550039a552cc8366200b78c4fb5",
+      "externalIds": {
+        "MAG": "2321141561",
+        "DOI": "10.1103/PHYSREVA.45.2461",
+        "CorpusId": 124317493
+      },
+      "title": "Fréedericksz transitions in supra-μm nematic droplets",
+      "year": 1992,
+      "authors": [
+        {
+          "authorId": "4693788",
+          "name": "S. Kralj"
+        },
+        {
+          "authorId": "3437822",
+          "name": "S. Žumer"
+        },
+        {
+          "authorId": "3437822",
+          "name": "S. Žumer"
+        }
+      ]
+    },
+    {
+      "paperId": "f285d9f7d20c44c627f2a521e32e66512c068e55",
+      "externalIds": {
+        "MAG": "1995221833",
+        "DOI": "10.1051/JPHYSCOL:1975134",
+        "CorpusId": 30806490
+      },
+      "title": "ELASTIC ENERGIES AND DIRECTOR FIELDS IN LIQUID CRYSTAL DROPLETS, I. CYLINDRICAL SYMMETRY",
+      "year": 1975,
+      "authors": [
+        {
+          "authorId": "97231140",
+          "name": "M. Press"
+        },
+        {
+          "authorId": "2162507",
+          "name": "A. Arrott"
+        }
+      ]
+    },
+    {
+      "paperId": "3d7b5ab52a7096ffdbe64eb8f5fb014eb67aeace",
+      "externalIds": {
+        "MAG": "1964146155",
+        "DOI": "10.1515/ZNA-1958-0716",
+        "CorpusId": 93402217
+      },
+      "title": "Eine einfache molekulare Theorie des nematischen kristallinflüssigen Zustandes",
+      "year": 1958,
+      "authors": [
+        {
+          "authorId": "144795481",
+          "name": "W. Maier"
+        },
+        {
+          "authorId": "2079472147",
+          "name": "A. Saupe"
+        }
+      ]
+    },
+    {
+      "paperId": null,
+      "externalIds": null,
+      "title": "Soft Matter 11",
+      "year": 2015,
+      "authors": []
+    },
+    {
+      "paperId": "b12c013367848c91f5230c904869e8149b670836",
+      "externalIds": {
+        "MAG": "974023445",
+        "DOI": "10.1007/978-4-431-54859-1_10",
+        "CorpusId": 118076307
+      },
+      "title": "Physics of Liquid Crystals",
+      "year": 2014,
+      "authors": [
+        {
+          "authorId": "10997442",
+          "name": "Y. Tabe"
+        },
+        {
+          "authorId": "4989280",
+          "name": "K. Urayama"
+        },
+        {
+          "authorId": "104515517",
+          "name": "A. Matsuyama"
+        },
+        {
+          "authorId": "2273447",
+          "name": "J. Yamamoto"
+        },
+        {
+          "authorId": "6532986",
+          "name": "M. Yoneya"
+        }
+      ]
+    },
+    {
+      "paperId": null,
+      "externalIds": null,
+      "title": "Science 333",
+      "year": 2011,
+      "authors": []
+    },
+    {
+      "paperId": null,
+      "externalIds": null,
+      "title": "and D",
+      "year": 2009,
+      "authors": []
+    },
+    {
+      "paperId": null,
+      "externalIds": null,
+      "title": "Nature 436",
+      "year": 2005,
+      "authors": []
+    },
+    {
+      "paperId": "bdc8ea273709e163f1592e1e84453c64a811f8c5",
+      "externalIds": {
+        "MAG": "2346439857",
+        "DOI": "10.17877/DE290R-2304",
+        "CorpusId": 138815512
+      },
+      "title": "Electro-optic Behavior of Liquid-Crystal-Filled Silica Opal Photonic Crystals",
+      "year": 2001,
+      "authors": [
+        {
+          "authorId": "3818389",
+          "name": "R. Baughman"
+        },
+        {
+          "authorId": "1771471",
+          "name": "N. Clark"
+        },
+        {
+          "authorId": "15440615",
+          "name": "D. Kang"
+        },
+        {
+          "authorId": "2321632",
+          "name": "J. Maclennan"
+        },
+        {
+          "authorId": "35163175",
+          "name": "A. Zakhidov"
+        }
+      ]
+    },
+    {
+      "paperId": "01cccc094a2ecd6336774769c1b43c27f8c032a7",
+      "externalIds": {
+        "MAG": "2049221692",
+        "DOI": "10.1080/00268948308084245",
+        "CorpusId": 96528491
+      },
+      "title": "Surface Anchoring of Liquid Crystal Molecules on Various Substrates",
+      "year": 1983,
+      "authors": [
+        {
+          "authorId": "46921375",
+          "name": "J. A. Castellano"
+        }
+      ]
+    },
+    {
+      "paperId": "7641c8ca6a32abbb84fc7bd9922b07f18cb4faf2",
+      "externalIds": {
+        "MAG": "2026862728",
+        "DOI": "10.1103/PHYSREVA.27.438",
+        "CorpusId": 120495553
+      },
+      "title": "Lattice of disclinations: The structure of the blue phases of cholesteric liquid crystals",
+      "year": 1983,
+      "authors": [
+        {
+          "authorId": "16958298",
+          "name": "S. Meiboom"
+        },
+        {
+          "authorId": "49877015",
+          "name": "M. Sammon"
+        },
+        {
+          "authorId": "31556022",
+          "name": "W. Brinkman"
+        }
+      ]
+    },
+    {
+      "paperId": "abcbb0608d3b674c51120f8b04c3e64ee738b062",
+      "externalIds": {
+        "MAG": "2016647592",
+        "DOI": "10.1080/15421407608084362",
+        "CorpusId": 95700842
+      },
+      "title": "The Determination of the Elastic Constants of Nematic Liquid Crystals",
+      "year": 1976,
+      "authors": [
+        {
+          "authorId": "8024440",
+          "name": "W. H. de Jeu"
+        },
+        {
+          "authorId": "2255078969",
+          "name": "W. A. P. Claassen"
+        },
+        {
+          "authorId": "2255044748",
+          "name": "A. M. J. Spruijt"
+        }
+      ]
+    },
+    {
+      "paperId": null,
+      "externalIds": null,
+      "title": "Colloques 36",
+      "year": 1975,
+      "authors": []
+    }
+  ]
+}
