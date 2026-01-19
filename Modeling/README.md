@@ -1,7 +1,5 @@
 # ArXiv Reference Matching System
 
-**Course:** NMKHDL - Lab 2  
-**Student ID:** 23127088  
 **Objective:** Automated matching of BibTeX entries with ArXiv metadata
 
 ---
